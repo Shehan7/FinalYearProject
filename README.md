@@ -6,3 +6,5 @@ This repository consistes the worm attacks prevention script with trained LSTM m
 
 For more info; please visit
 https://fyp07.netlify.app
+
+©2022
